@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+modelos/*.task
+capturas/
+registros/
+.vscode/settings.json
+.DS_Store
